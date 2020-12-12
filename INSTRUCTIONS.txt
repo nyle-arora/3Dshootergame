@@ -1,0 +1,1 @@
+This is a simple 3D shooter game. You can use the up, down, right, and left arrow keys to move the gun on the screen and you can press the space bar to fire bullets at the moving targets. You score one point everytime you shoot a target! 
